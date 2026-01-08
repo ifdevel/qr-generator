@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ifdevel.github.io/qr-generator/sitemap.xml
